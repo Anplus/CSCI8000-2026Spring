@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: CSCI8000 Paper Discussion
 description: This websites hosts all paper public review and discussion.
+
+baseurl: "/CSCI8000-2026Spring"
+url: "https://anplus.github.io"
+permalink: /posts/:year/:month/:day/:title/
