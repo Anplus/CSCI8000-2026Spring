@@ -1,1 +1,2 @@
-# CSCI8000-2026Spring
+# CSCI8000 2026 Spring Paper Discussion
+
